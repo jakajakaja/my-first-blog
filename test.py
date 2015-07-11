@@ -1,0 +1,2 @@
+print("Kaja")
+"Kaja".upper()
